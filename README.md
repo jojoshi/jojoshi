@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jojoshi
+- 👀 I’m interested in kryptography, quantum computing, ...
+- 🌱 I’m currently learning computer sience at TUM
