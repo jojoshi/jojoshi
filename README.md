@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @jojoshi
-- 👀 I’m interested in kryptography, quantum computing, ...
-- 🌱 I’m currently learning computer sience at TUM
+- 👀 I’m interested in kryptography, AI, quantum computing
+- 🧢 I’m currently studying computer sience at TUM
+- 🦀 I'm currently learning Rust
